@@ -1,4 +1,4 @@
-# 데잇걸즈 조별 프로젝트
+# E조 프로젝트
 
 데잇걸즈 과정 중 M3~M4 마일스톤에서 진행된 조별 프로젝트이다. **E조**는 *강민경([@ddongule](https://github.com/ddonggule)), 강채원([@chaewonkang](https://github.com/chaewonkang)), 송서영([@seoyeongsong](https://github.com/seoyeongsong)), 정지혜([@jyeeee95](https://github.com/jyeeee95))*로 이루어져 있다.
 
@@ -52,6 +52,3 @@
 
 1. 인스타그램의 해시태그를 활용한 크롤링 작업
 2. 기타 데이터를 활용한 데이트 장소 분석
-
-
-
